@@ -1,5 +1,3 @@
 # DEVCAMPER-Course
-
-the project of Express js course by brad traversy
-
-uses MongoDB as database
+Express js project of brad traversy's course
+uses MongoDB as its database
